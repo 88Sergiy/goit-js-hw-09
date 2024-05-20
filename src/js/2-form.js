@@ -3,6 +3,7 @@ const formData = {
     message: "",
 }
 
+
 const formContainer = document.querySelector('.form-container');
 
 formContainer.innerHTML = createFormMarkup();
